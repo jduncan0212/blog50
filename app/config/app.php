@@ -77,10 +77,10 @@ return array(
 	| will not be safe. Please do this before deploying an application!
 	|
 	*/
+	
+	'key' => 'SjtCNLlu18yABBdxRwOAFVVDfqUAjFsO',
 
-	'key' => 'moDI2xdTucP8G1RVXjGiikRl2IeUWCNg',
-
-	'cipher' => MCRYPT_RIJNDAEL_128,
+	'cipher' => 'AES-256-CBC',
 
 	/*
 	|--------------------------------------------------------------------------
